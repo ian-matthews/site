@@ -1,0 +1,24 @@
+* {
+text-align: center;
+font-family: monospace;
+background-color: #f0f0f0;
+}
+
+a {color: black;}         /* Unvisited link  */
+a:visited {color: black;} /* Visited link    */
+a:hover {color: black;}   /* Mouse over link */
+a:active {color: black;}  /* Selected link   */
+a {text-decoration: none;} /* Default Underline */
+
+
+.where {
+margin-top: 250px;
+}
+
+.home, .page-i, .page-ii {
+margin-right: 100px;
+}
+
+.tm {
+margin-top: 15px;
+}
